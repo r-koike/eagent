@@ -1,0 +1,297 @@
+{
+    "follower1": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower1_policy_model.zip"
+    },
+    "follower2": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower2_policy_model.zip"
+    },
+    "follower3": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower3_policy_model.zip"
+    },
+    "follower4": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower4_policy_model.zip"
+    },
+    "follower5": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower5_policy_model.zip"
+    },
+    "follower6": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower6_policy_model.zip"
+    },
+    "follower7": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower7_policy_model.zip"
+    },
+    "follower8": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower8_policy_model.zip"
+    },
+    "follower9": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower9_policy_model.zip"
+    },
+    "follower10": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower10_policy_model.zip"
+    },
+    "follower11": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower11_policy_model.zip"
+    },
+    "follower12": {
+        "params_jsonname": "params/parameter_10000_0.json",
+        "model_zipname": "zips/follower12_policy_model.zip"
+    },
+    "follower13": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower13_policy_model.zip"
+    },
+    "follower14": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower14_policy_model.zip"
+    },
+    "follower15": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower15_policy_model.zip"
+    },
+    "follower16": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower16_policy_model.zip"
+    },
+    "follower17": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower17_policy_model.zip"
+    },
+    "follower18": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower18_policy_model.zip"
+    },
+    "follower19": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower19_policy_model.zip"
+    },
+    "follower20": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower20_policy_model.zip"
+    },
+    "follower21": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower21_policy_model.zip"
+    },
+    "follower22": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower22_policy_model.zip"
+    },
+    "follower23": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower23_policy_model.zip"
+    },
+    "follower24": {
+        "params_jsonname": "params/parameter_10000_1.json",
+        "model_zipname": "zips/follower24_policy_model.zip"
+    },
+    "follower25": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower25_policy_model.zip"
+    },
+    "follower26": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower26_policy_model.zip"
+    },
+    "follower27": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower27_policy_model.zip"
+    },
+    "follower28": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower28_policy_model.zip"
+    },
+    "follower29": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower29_policy_model.zip"
+    },
+    "follower30": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower30_policy_model.zip"
+    },
+    "follower31": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower31_policy_model.zip"
+    },
+    "follower32": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower32_policy_model.zip"
+    },
+    "follower33": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower33_policy_model.zip"
+    },
+    "follower34": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower34_policy_model.zip"
+    },
+    "follower35": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower35_policy_model.zip"
+    },
+    "follower36": {
+        "params_jsonname": "params/parameter_10000_2.json",
+        "model_zipname": "zips/follower36_policy_model.zip"
+    },
+    "follower37": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower37_policy_model.zip"
+    },
+    "follower38": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower38_policy_model.zip"
+    },
+    "follower39": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower39_policy_model.zip"
+    },
+    "follower40": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower40_policy_model.zip"
+    },
+    "follower41": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower41_policy_model.zip"
+    },
+    "follower42": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower42_policy_model.zip"
+    },
+    "follower43": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower43_policy_model.zip"
+    },
+    "follower44": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower44_policy_model.zip"
+    },
+    "follower45": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower45_policy_model.zip"
+    },
+    "follower46": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower46_policy_model.zip"
+    },
+    "follower47": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower47_policy_model.zip"
+    },
+    "follower48": {
+        "params_jsonname": "params/parameter_10000_3.json",
+        "model_zipname": "zips/follower48_policy_model.zip"
+    },
+    "follower49": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower49_policy_model.zip"
+    },
+    "follower50": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower50_policy_model.zip"
+    },
+    "follower51": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower51_policy_model.zip"
+    },
+    "follower52": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower52_policy_model.zip"
+    },
+    "follower53": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower53_policy_model.zip"
+    },
+    "follower54": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower54_policy_model.zip"
+    },
+    "follower55": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower55_policy_model.zip"
+    },
+    "follower56": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower56_policy_model.zip"
+    },
+    "follower57": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower57_policy_model.zip"
+    },
+    "follower58": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower58_policy_model.zip"
+    },
+    "follower59": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower59_policy_model.zip"
+    },
+    "follower60": {
+        "params_jsonname": "params/parameter_10000_4.json",
+        "model_zipname": "zips/follower60_policy_model.zip"
+    },
+    "follower61": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower61_policy_model.zip"
+    },
+    "follower62": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower62_policy_model.zip"
+    },
+    "follower63": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower63_policy_model.zip"
+    },
+    "follower64": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower64_policy_model.zip"
+    },
+    "follower65": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower65_policy_model.zip"
+    },
+    "follower66": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower66_policy_model.zip"
+    },
+    "follower67": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower67_policy_model.zip"
+    },
+    "follower68": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower68_policy_model.zip"
+    },
+    "follower69": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower69_policy_model.zip"
+    },
+    "follower70": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower70_policy_model.zip"
+    },
+    "follower71": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower71_policy_model.zip"
+    },
+    "follower72": {
+        "params_jsonname": "params/parameter_10000_5.json",
+        "model_zipname": "zips/follower72_policy_model.zip"
+    },
+    "leader": {
+        "trainer": "pickles/leader_trainer.pkl",
+        "history": "history_temp.json"
+    },
+    "status": {
+        "done": false
+    }
+}

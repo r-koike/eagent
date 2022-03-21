@@ -1,0 +1,369 @@
+{
+    "follower1": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower1_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower1_replay_buffer.pkl"
+    },
+    "follower2": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower2_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower2_replay_buffer.pkl"
+    },
+    "follower3": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower3_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower3_replay_buffer.pkl"
+    },
+    "follower4": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower4_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower4_replay_buffer.pkl"
+    },
+    "follower5": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower5_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower5_replay_buffer.pkl"
+    },
+    "follower6": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower6_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower6_replay_buffer.pkl"
+    },
+    "follower7": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower7_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower7_replay_buffer.pkl"
+    },
+    "follower8": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower8_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower8_replay_buffer.pkl"
+    },
+    "follower9": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower9_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower9_replay_buffer.pkl"
+    },
+    "follower10": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower10_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower10_replay_buffer.pkl"
+    },
+    "follower11": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower11_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower11_replay_buffer.pkl"
+    },
+    "follower12": {
+        "params_jsonname": "params/parameter_5000_0.json",
+        "model_zipname": "zips/follower12_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower12_replay_buffer.pkl"
+    },
+    "follower13": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower13_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower13_replay_buffer.pkl"
+    },
+    "follower14": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower14_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower14_replay_buffer.pkl"
+    },
+    "follower15": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower15_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower15_replay_buffer.pkl"
+    },
+    "follower16": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower16_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower16_replay_buffer.pkl"
+    },
+    "follower17": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower17_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower17_replay_buffer.pkl"
+    },
+    "follower18": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower18_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower18_replay_buffer.pkl"
+    },
+    "follower19": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower19_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower19_replay_buffer.pkl"
+    },
+    "follower20": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower20_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower20_replay_buffer.pkl"
+    },
+    "follower21": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower21_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower21_replay_buffer.pkl"
+    },
+    "follower22": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower22_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower22_replay_buffer.pkl"
+    },
+    "follower23": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower23_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower23_replay_buffer.pkl"
+    },
+    "follower24": {
+        "params_jsonname": "params/parameter_5000_1.json",
+        "model_zipname": "zips/follower24_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower24_replay_buffer.pkl"
+    },
+    "follower25": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower25_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower25_replay_buffer.pkl"
+    },
+    "follower26": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower26_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower26_replay_buffer.pkl"
+    },
+    "follower27": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower27_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower27_replay_buffer.pkl"
+    },
+    "follower28": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower28_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower28_replay_buffer.pkl"
+    },
+    "follower29": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower29_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower29_replay_buffer.pkl"
+    },
+    "follower30": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower30_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower30_replay_buffer.pkl"
+    },
+    "follower31": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower31_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower31_replay_buffer.pkl"
+    },
+    "follower32": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower32_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower32_replay_buffer.pkl"
+    },
+    "follower33": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower33_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower33_replay_buffer.pkl"
+    },
+    "follower34": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower34_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower34_replay_buffer.pkl"
+    },
+    "follower35": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower35_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower35_replay_buffer.pkl"
+    },
+    "follower36": {
+        "params_jsonname": "params/parameter_5000_2.json",
+        "model_zipname": "zips/follower36_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower36_replay_buffer.pkl"
+    },
+    "follower37": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower37_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower37_replay_buffer.pkl"
+    },
+    "follower38": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower38_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower38_replay_buffer.pkl"
+    },
+    "follower39": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower39_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower39_replay_buffer.pkl"
+    },
+    "follower40": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower40_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower40_replay_buffer.pkl"
+    },
+    "follower41": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower41_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower41_replay_buffer.pkl"
+    },
+    "follower42": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower42_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower42_replay_buffer.pkl"
+    },
+    "follower43": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower43_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower43_replay_buffer.pkl"
+    },
+    "follower44": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower44_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower44_replay_buffer.pkl"
+    },
+    "follower45": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower45_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower45_replay_buffer.pkl"
+    },
+    "follower46": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower46_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower46_replay_buffer.pkl"
+    },
+    "follower47": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower47_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower47_replay_buffer.pkl"
+    },
+    "follower48": {
+        "params_jsonname": "params/parameter_5000_3.json",
+        "model_zipname": "zips/follower48_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower48_replay_buffer.pkl"
+    },
+    "follower49": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower49_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower49_replay_buffer.pkl"
+    },
+    "follower50": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower50_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower50_replay_buffer.pkl"
+    },
+    "follower51": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower51_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower51_replay_buffer.pkl"
+    },
+    "follower52": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower52_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower52_replay_buffer.pkl"
+    },
+    "follower53": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower53_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower53_replay_buffer.pkl"
+    },
+    "follower54": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower54_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower54_replay_buffer.pkl"
+    },
+    "follower55": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower55_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower55_replay_buffer.pkl"
+    },
+    "follower56": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower56_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower56_replay_buffer.pkl"
+    },
+    "follower57": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower57_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower57_replay_buffer.pkl"
+    },
+    "follower58": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower58_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower58_replay_buffer.pkl"
+    },
+    "follower59": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower59_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower59_replay_buffer.pkl"
+    },
+    "follower60": {
+        "params_jsonname": "params/parameter_5000_4.json",
+        "model_zipname": "zips/follower60_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower60_replay_buffer.pkl"
+    },
+    "follower61": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower61_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower61_replay_buffer.pkl"
+    },
+    "follower62": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower62_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower62_replay_buffer.pkl"
+    },
+    "follower63": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower63_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower63_replay_buffer.pkl"
+    },
+    "follower64": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower64_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower64_replay_buffer.pkl"
+    },
+    "follower65": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower65_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower65_replay_buffer.pkl"
+    },
+    "follower66": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower66_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower66_replay_buffer.pkl"
+    },
+    "follower67": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower67_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower67_replay_buffer.pkl"
+    },
+    "follower68": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower68_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower68_replay_buffer.pkl"
+    },
+    "follower69": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower69_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower69_replay_buffer.pkl"
+    },
+    "follower70": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower70_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower70_replay_buffer.pkl"
+    },
+    "follower71": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower71_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower71_replay_buffer.pkl"
+    },
+    "follower72": {
+        "params_jsonname": "params/parameter_5000_5.json",
+        "model_zipname": "zips/follower72_policy_model.zip",
+        "replay_buffer_pklname": "pickles/follower72_replay_buffer.pkl"
+    },
+    "leader": {
+        "trainer": "pickles/leader_trainer.pkl",
+        "history": "history_temp.json"
+    },
+    "status": {
+        "done": false
+    }
+}

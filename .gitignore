@@ -1,0 +1,7 @@
+__pycache__/
+/.vscode/
+/repos/
+/eagent/data/*.pkl
+/log/**/*.pkl
+/log/**/*.zip
+/log/temp/

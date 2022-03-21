@@ -1,0 +1,96 @@
+{
+    "env_name": "EvolvingHandEggRotateZSparse-v1",
+    "initial_params_filename": "zoo/hand/ehand5_below_sac_256.256.256.json",
+    "max_num_limbs": 18,
+    "env_specific_cfg": {
+        "palm_drop_height": -999.9,
+        "robot_cfg": {
+            "actuator": "position",
+            "torso_radius": 0.01,
+            "scale": 0.012,
+            "armature": 0.001,
+            "damping": 0.1,
+            "joint_range": [-0.4, 0.4],
+            "ctrlrange": [-0.4, 0.4],
+            "forcerange": [-1.0, 1.0],
+            "kp": 1,
+            "hand_position": "below",
+            "self_collision": true
+        }
+    },
+    "policy": "MultiInputPolicy",
+    "policy_kwargs": {
+        "activation_fn": "relu",
+        "n_critics": 1,
+        "net_arch": [256, 256, 256]
+    },
+    "rl_cfg": {
+        "algorithm": "sac_her",
+        "buffer_size": 100000,
+        "batch_size": 32,
+        "learning_starts": 0,
+        "gamma": 0.95,
+        "learning_rate": 0.0002,
+        "tau": 0.05,
+        "num_steps_in_learn": 1000,
+        "n_sampled_goal": 4,
+        "goal_selection_strategy": "future",
+        "online_sampling": true,
+        "tb_log": "None"
+    },
+    "do_policy_selection": false,
+    "num_eliminated_in_policy_selection": 1,
+    "use_averaged_policy": true,
+    "eval_averaged_policy": true,
+    "structure_sigma_max_change": 0.1,
+    "structure_sigma_limit": 0.01,
+    "use_2dof": false,
+    "reset_ppo_on_edges_selection": true,
+    "reset_sigma_on_edges_selection": true,
+    "reset_optimizer_on_edges_selection": true,
+    "use_elite_in_eval_reward": false,
+    "how_to_select_best_species": "smoothed_eval",
+    "num_ema_in_edges_selection": 300,
+    "ema_init_value": "adaptive",
+    "edges_selection_criteria": "fitting",
+    "edges_selection_params": {
+        "patient": {
+            "patience": 300
+        },
+        "fitting": {
+            "sight": 300,
+            "slope_threshold": 0.005
+        },
+        "fitting_rand": {
+            "sight": 300,
+            "slope_threshold": 0.005
+        },
+        "contact": {
+            "min_contact_rate": 0.1,
+            "decrease_interval": 0,
+            "num_ema_in_contact": 10
+        },
+        "contact_fitting": {
+            "sight": 100,
+            "slope_threshold": 0.03,
+            "min_contact_rate": 0.15,
+            "decrease_interval": 0,
+            "num_ema_in_contact": 100
+        }
+    },
+    "structure_lr": 0.005,
+    "do_structure_improvement": true,
+    "do_edges_selection": true,
+    "num_species": 6,
+    "num_individuals": 12,
+    "num_steps_in_eval": 100,
+    "num_episodes_in_eval": 6,
+    "use_elite_in_eval": false,
+    "policy_selection_cycle": 5,
+    "edges_selection_cycle": 10000,
+    "save_parameter_cycle": 1000,
+    "checkpoint_cycle": 1000,
+    "policy_verbose": 0,
+    "save_every_edges": true,
+    "max_generation": 5000
+}

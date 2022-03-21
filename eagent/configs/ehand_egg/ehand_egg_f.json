@@ -1,0 +1,8 @@
+{
+    "initial_params_filename": "zoo/hand/ehand5_below_sac_256.256.256.json",
+    "max_num_limbs": 18,
+    "do_structure_improvement": true,
+    "do_edges_selection": false,
+    "num_species": 1,
+    "num_individuals": 12
+}
