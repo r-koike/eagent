@@ -111,7 +111,7 @@ Use [plot_history.ipynb](plot_history.ipynb).
   - When the generation reaches this point, the training is terminated.
 
 ## Trained models
-To check trained data, access the [release note](https://github.com/r-koike/eagent). The list of the trailed data is [log/catalog.json](log/catalog.json). 
+To check trained data, access the [release note](https://github.com/r-koike/eagent/releases/tag/v0.8.8). The list of the trailed data is [log/catalog.json](log/catalog.json). 
 
 ## License
 ```

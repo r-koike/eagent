@@ -58,10 +58,10 @@ git clone https://github.com/r-koike/eagent
 ```
 
 - To enable training, follow these steps:
-  - Download 2 files: code_****_18_1.pkl available in the [release note](https://github.com/r-koike/eagent)
+  - Download 2 files: code_****_18_1.pkl available in the [release note](https://github.com/r-koike/eagent/releases/tag/v0.8.8)
   - Move them into `eagent/data/code_****_18_1.pkl`
   - These files required when `"max_num_limbs": 18`. If these files do not exist, they are automatically created, but this process can be very time-consuming.
-- To check trained data, access the [release note](https://github.com/r-koike/eagent)
+- To check trained data, access the [release note](https://github.com/r-koike/eagent/releases/tag/v0.8.8)
 
 ## Windows 10/11
 This instruction uses PowerShell. Anaconda and other environments other than pyenv are also fine.
@@ -123,8 +123,8 @@ pip install -e .
 - To enable training, install [Microsoft MPI (10.0.12498.5)](https://www.microsoft.com/en-us/download/details.aspx?id=57467)
   - To confirm that the installed MPI is being used, execute the following command: `gcm mpiexec | fl`
 - To enable training, follow these steps:
-  - Download 2 files: code_****_18_1.pkl available in the [release note](https://github.com/r-koike/eagent)
+  - Download 2 files: code_****_18_1.pkl available in the [release note](https://github.com/r-koike/eagent/releases/tag/v0.8.8)
   - Move them into `eagent/data/code_****_18_1.pkl`
   - These files required when `"max_num_limbs": 18`. If these files do not exist, they are automatically created, but this process can be very time-consuming.
 - To enable video recording, install [FFmpeg](https://ffmpeg.org/) and add bin directory to PATH
-- To check trained data, access the [release note](https://github.com/r-koike/eagent)
+- To check trained data, access the [release note](https://github.com/r-koike/eagent/releases/tag/v0.8.8)
