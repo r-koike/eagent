@@ -341,7 +341,7 @@ def mpi_fork(n, output_dirname):
         )
         if os.name == "nt":
             # On Windows, use Microsoft MPI (https://www.microsoft.com/en-us/download/details.aspx?id=57467)
-            cmd = ["mpiexec", "--oversubscribe", "-l", "-np", str(n), sys.executable] \
+            cmd = ["mpiexec", "-l", "-np", str(n), sys.executable] \
                 + ["-u"] + sys.argv + ["-o", output_dirname]
         else:
             # On Ubuntu, use mpich
