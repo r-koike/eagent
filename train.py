@@ -340,13 +340,13 @@ def mpi_fork(n, output_dirname):
             IN_MPI="1"
         )
         if os.name == "nt":
-            # on Windows
-            # Use Microsoft MPI (https://www.microsoft.com/en-us/download/details.aspx?id=57467)
-            cmd = ["mpiexec", "-l", "-np", str(n), sys.executable] + ["-u"] + sys.argv + ["-o", output_dirname]
+            # On Windows, use Microsoft MPI (https://www.microsoft.com/en-us/download/details.aspx?id=57467)
+            cmd = ["mpiexec", "--oversubscribe", "-l", "-np", str(n), sys.executable] \
+                + ["-u"] + sys.argv + ["-o", output_dirname]
         else:
-            # This is not tested
-            cmd = ["mpiexec", "-np", str(n), sys.executable] + ["-u"] + sys.argv + ["-o", output_dirname]
-            # cmd = ["mpirun", "-l", "-np", str(n), sys.executable] + ["-u"] + sys.argv
+            # On Ubuntu, use mpich
+            cmd = ["mpiexec", "--oversubscribe", "-np", str(n), sys.executable] \
+                + ["-u"] + sys.argv + ["-o", output_dirname]
         print(cmd)
         # Wait for all sub-processes to terminate
         subprocess.check_call(cmd, env=env)

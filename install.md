@@ -16,7 +16,7 @@ sudo apt install -y \
     libffi-dev libssl-dev zlib1g-dev liblzma-dev tk-dev \
     libbz2-dev libreadline-dev libsqlite3-dev libopencv-dev \
     libosmesa6-dev patchelf\
-    build-essential git
+    build-essential git mpich
 
 # Install mujoco
 wget https://github.com/deepmind/mujoco/releases/download/2.1.0/mujoco210-linux-x86_64.tar.gz
@@ -35,6 +35,7 @@ cd ..
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
 echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
 echo 'eval "$(pyenv init --path)"' >> ~/.bashrc
+echo 'export MUJOCO_PY_FORCE_CPU=1' >> ~/.bashrc
 source ~/.bashrc
 
 # Activate the environment
@@ -53,10 +54,7 @@ pip install mpi4py==3.0.3 \
     notebook
 
 # Clone
-git clone git@github.com:r-koike/eagent.git
-
-# To enable training
-sudo apt install mpich
+git clone https://github.com/r-koike/eagent
 ```
 
 - To enable training, follow these steps:
@@ -93,7 +91,7 @@ pip install mpi4py==3.0.3 `
     notebook
 
 # Clone
-git clone git@github.com:r-koike/eagent.git
+git clone https://github.com/r-koike/eagent
 ```
 
 ### Install MuJoCo & mujoco-py
@@ -111,17 +109,22 @@ $data = Get-Content mujoco_py/generated/wrappers.pxi | ForEach-Object { $_ -crep
 $data | Out-File mujoco_py/generated/wrappers.pxi -Encoding utf8
 
 # Insert the following line into mujoco_py/builder.py
-# os.add_dll_directory("C:/Users/user/.mujoco/mujoco210/bin")
+# os.add_dll_directory("C:/Users/[your_username]/.mujoco/mujoco210/bin")
 # For more information, see https://github.com/openai/mujoco-py/issues/638#issuecomment-969019281
+
+# It is recommended to install for CPU.
+# If you already have CUDA installed, add following environment variables:
+# MUJOCO_PY_FORCE_CPU: 1
 
 pip install -e .
 ```
 
 ### Install othor tools
 - To enable training, install [Microsoft MPI (10.0.12498.5)](https://www.microsoft.com/en-us/download/details.aspx?id=57467)
+  - To confirm that the installed MPI is being used, execute the following command: `gcm mpiexec | fl`
 - To enable training, follow these steps:
   - Download 2 files: code_****_18_1.pkl available in the [release note](https://github.com/r-koike/eagent)
   - Move them into `eagent/data/code_****_18_1.pkl`
   - These files required when `"max_num_limbs": 18`. If these files do not exist, they are automatically created, but this process can be very time-consuming.
-- To enable video recording, install [FFmpeg](https://ffmpeg.org/) and add bin directory to environment variable
+- To enable video recording, install [FFmpeg](https://ffmpeg.org/) and add bin directory to PATH
 - To check trained data, access the [release note](https://github.com/r-koike/eagent)
