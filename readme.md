@@ -5,8 +5,11 @@
 <img src="https://user-images.githubusercontent.com/40193120/159227274-a60d3f38-d0a8-485f-b277-5805ee4fa47d.gif" width="30%"/>
 <img src="https://user-images.githubusercontent.com/40193120/159225908-713be0c6-faf7-43a0-8b10-7f44df06419d.gif" width="30%"/>
 <br/>
-<i>Trained agents. Trained using ICM, MDM, and ICM, respectively.</i>
+<i>Trained agents.</i>
 </div>
+
+## Videos
+Check [gallery.md](gallery.md).
 
 ## Installation
 Check [install.md](install.md).
