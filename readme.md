@@ -1,12 +1,9 @@
 # eagent
-
-<div>
-<img src="https://user-images.githubusercontent.com/40193120/159227367-3d390492-ee2f-4d46-8228-ce64923524cc.gif" width="30%"/>
-<img src="https://user-images.githubusercontent.com/40193120/159227274-a60d3f38-d0a8-485f-b277-5805ee4fa47d.gif" width="30%"/>
-<img src="https://user-images.githubusercontent.com/40193120/159225908-713be0c6-faf7-43a0-8b10-7f44df06419d.gif" width="30%"/>
-<br/>
+![mdm_rein_ppo_ant40](https://user-images.githubusercontent.com/40193120/159227274-a60d3f38-d0a8-485f-b277-5805ee4fa47d.gif)
+![icm_rein_ppo_starfish6](https://user-images.githubusercontent.com/40193120/159227367-3d390492-ee2f-4d46-8228-ce64923524cc.gif)
+![icm_rein_sac_hand5](https://user-images.githubusercontent.com/40193120/170286418-4957174f-d52c-4835-80e0-3f975fc9655e.gif)
+<br>
 <i>Trained agents.</i>
-</div>
 
 ## Videos
 Check [gallery.md](gallery.md).

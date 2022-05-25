@@ -2,50 +2,54 @@
 The title of each video corresponds to the one in the [catalog.json](log/catalog.json).
 
 ### Initial values
-<div>
-<img src="https://user-images.githubusercontent.com/40193120/168417956-a1f129e0-2b11-4f8e-ad4c-a06f444c91d3.gif" width="50%"/>
+![Starfish6](https://user-images.githubusercontent.com/40193120/168417956-a1f129e0-2b11-4f8e-ad4c-a06f444c91d3.gif)
 <br>
 <i>Starfish6</i>
+
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/40193120/168417946-8b1585a6-5cca-4e86-8d8b-bcd3937b09ca.gif" width="50%"/>
+
+![Ant40](https://user-images.githubusercontent.com/40193120/168417946-8b1585a6-5cca-4e86-8d8b-bcd3937b09ca.gif)
 <br>
 <i>Ant40</i>
+
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/40193120/168417962-9dd814d2-7cb1-4df8-b676-8a2747369de8.gif" width="50%"/>
+
+![Hand15](https://user-images.githubusercontent.com/40193120/170289165-07e46c93-5fce-4c0a-8c98-3d073934e069.gif)
 <br>
 <i>Hand15</i>
+
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/40193120/168417963-248f33bd-79f6-448c-9c2b-3fab7781b5e2.gif" width="50%"/>
+
+![Hand24](https://user-images.githubusercontent.com/40193120/170289173-b36edc3e-c100-4d66-b519-779db6c455b7.gif)
 <br>
 <i>Hand24</i>
-</div>
 
 ### Walker
-<div>
-<img src="https://user-images.githubusercontent.com/40193120/159227274-a60d3f38-d0a8-485f-b277-5805ee4fa47d.gif" width="50%"/>
+![mdm_rein_ppo_ant40](https://user-images.githubusercontent.com/40193120/159227274-a60d3f38-d0a8-485f-b277-5805ee4fa47d.gif)
 <br>
 <i>mdm_rein_ppo_ant40: old/0.8.8_20220114_005020</i>
+
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/40193120/159227367-3d390492-ee2f-4d46-8228-ce64923524cc.gif" width="50%"/>
+
+![icm_rein_ppo_starfish6](https://user-images.githubusercontent.com/40193120/159227367-3d390492-ee2f-4d46-8228-ce64923524cc.gif)
 <br>
 <i>icm_rein_ppo_starfish6: old/0.8.8_20220203_225723</i>
-</div>
 
 ### Hand
-<div>
-<img src="https://user-images.githubusercontent.com/40193120/168417998-5374b176-dc02-49ae-aad5-2611bd154405.gif" width="50%"/>
+![mdm_rein_sac_hand24](https://user-images.githubusercontent.com/40193120/170286445-71eb6ec9-28ae-4881-b567-e86d0530fb18.gif)
 <br>
 <i>mdm_rein_sac_hand24: old/0.8.8_20220113_225616</i>
+
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/40193120/159225908-713be0c6-faf7-43a0-8b10-7f44df06419d.gif" width="50%"/>
+
+![icm_rein_sac_hand5](https://user-images.githubusercontent.com/40193120/170286418-4957174f-d52c-4835-80e0-3f975fc9655e.gif)
 <br>
 <i>icm_rein_sac_hand5: old/0.8.8_20220205_213427</i>
-</div>
 
 ### Walker with various joint properties
 
