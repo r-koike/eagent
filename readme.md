@@ -1,4 +1,5 @@
 # eagent
+
 ![mdm_rein_ppo_ant40](https://user-images.githubusercontent.com/40193120/159227274-a60d3f38-d0a8-485f-b277-5805ee4fa47d.gif)
 ![icm_rein_ppo_starfish6](https://user-images.githubusercontent.com/40193120/159227367-3d390492-ee2f-4d46-8228-ce64923524cc.gif)
 ![icm_rein_sac_hand5](https://user-images.githubusercontent.com/40193120/170286418-4957174f-d52c-4835-80e0-3f975fc9655e.gif)
@@ -34,11 +35,11 @@ python demo.py -c ehand_egg.json -i zoo/hand/ehand5_below_sac_256.256.256.json
 
 # Trained walking robot (these perform exactly the same)
 python demo.py -s 1 -i log/old/0.8.8_20220203_225723/parameter_best.json
-python demo.py -c ewalker_iso6.json -i log/old/0.8.8_20220203_225723/parameter_best.json
+python demo.py -c ewalker_iso6_6.json -i log/old/0.8.8_20220203_225723/parameter_best.json
 
 # Trained manipulation robot (these perform exactly the same)
 python demo.py -s 1 -i log/old/0.8.8_20220205_213427/parameter_best.json
-python demo.py -c ehand_egg_iso6.json -i log/old/0.8.8_20220205_213427/parameter_best.json
+python demo.py -c ehand_egg_iso6_5.json -i log/old/0.8.8_20220205_213427/parameter_best.json
 ```
 
 #### Evaluation
@@ -56,16 +57,16 @@ python demo.py -t record -s 1 -i log/old/0.8.8_20220203_225723/parameter_best.js
 #### Reproduce in the prepared config
 ```bash
 # Walking task
-python train.py -c ewalker_iso6.json
-python train.py -c ewalker_dec.json
+python train.py -c ewalker_iso6_6.json
+python train.py -c ewalker_dec_16.json
 
 # Manipulation task
-python train.py -c ehand_egg_iso6.json
-python train.py -c ehand_egg_dec.json
+python train.py -c ehand_egg_iso6_5.json
+python train.py -c ehand_egg_dec_15.json
 ```
 
 #### Perform a new training in the walking task
-1. Clone `eagent/configs/ewalker/ewalker_iso6.json` to `eagent/configs/ewalker/my_cfg.json`.
+1. Clone `eagent/configs/ewalker/ewalker_iso6_6.json` to `eagent/configs/ewalker/my_cfg.json`.
 2. Edit it as you like.
    - Note that `eagent/configs/ewalker/default.json` is the default config, and `my_cfg.json` overrides `default.json`.
 3. Execute the following command:

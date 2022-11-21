@@ -1,0 +1,9 @@
+{
+    "initial_params_filename": "zoo/walker/ant_r40_48.64.json",
+    "max_num_limbs": 40,
+    "edges_selection_criteria": "contact_fitting",
+    "do_structure_improvement": true,
+    "do_edges_selection": true,
+    "num_species": 1,
+    "num_individuals": 12
+}

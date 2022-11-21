@@ -1,8 +1,0 @@
-{
-    "initial_params_filename": "zoo/walker/starfish6_48.64.json",
-    "max_num_limbs": 18,
-    "do_structure_improvement": false,
-    "do_edges_selection": false,
-    "num_species": 1,
-    "num_individuals": 1
-}
