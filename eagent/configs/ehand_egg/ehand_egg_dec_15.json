@@ -1,6 +1,6 @@
 {
     "initial_params_filename": "zoo/hand/ehand15_below_sac_256.256.256.json",
-    "max_num_limbs": 25,
+    "max_num_limbs": 18,
     "edges_selection_criteria": "contact_fitting",
     "do_structure_improvement": true,
     "do_edges_selection": true,
